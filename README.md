@@ -20,5 +20,5 @@ Il s'agissait de :
     -> étape réalisée sous tableau desktop et publiée sous tableau public [résultat visible ici](https://public.tableau.com/app/profile/marion.coutarel/viz/panorama_artisanat_france/Panoramadelartisanat)
 
 
-
+![alt text](https://github.com/MarionCoutarel/panorama_artisanat_francais/blob/main/panorama-artisanat.png)
 
